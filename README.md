@@ -2,4 +2,4 @@
 Obtain a tight segmentation of each buoy for the entire video sequence by applying a tight contour around each buoy.
 
 
-![Report](https://github.com/amrish1222/underwater_buoy_detection_GMM/blob/master/results/ENPM673_Project3.pdf)
+[Report](https://github.com/amrish1222/underwater_buoy_detection_GMM/blob/master/results/ENPM673_Project3.pdf)
